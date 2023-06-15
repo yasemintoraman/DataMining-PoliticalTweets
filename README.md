@@ -31,7 +31,7 @@ Tweets" dataset from Kaggle.In this project, I analyzed the tweets about Joe Bid
 ## The Project Summary
 
 After uploading the data, I performed the cleaning process and made the
-data ready for further processing. Then I analysed this datasets". After these processes, I trained the data according to
+data ready for further processing. Then I analysed this datasets. After these processes, I trained the data according to
 the Naive Bayes and K-NN algorithms and tested the accuracy of the probability of
 predicting the classes of the tweet . Then I compared these two algorithms. After
 completing these training processes, I made sentiment analysis of the tweets.
