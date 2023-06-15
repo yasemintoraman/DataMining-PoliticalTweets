@@ -7,9 +7,9 @@ Tweets" dataset from Kaggle.In this project, I analyzed the tweets about Joe Bid
 
 ### Columns are as follows:
 
-created_at: Date and time of tweet creation
-tweet_id: Unique ID of the tweet
-tweet: Full tweet text
+* created_at: Date and time of tweet creation
+* tweet_id: Unique ID of the tweet
+* tweet: Full tweet text
 likes: Number of likes
 retweet_count: Number of retweets
 source: Utility used to post tweet
